@@ -4,7 +4,7 @@ define(function () {
 	// default configuration
 	appConfig.api = {
 		name: 'Local',
-		url: 'http://52.231.48.97:8080/WebAPI/'
+		url: 'http://169.56.100.186:80/WebAPI/'
   };
   appConfig.cacheSources = false;
   appConfig.pollInterval = 60000;
